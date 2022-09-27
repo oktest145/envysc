@@ -1,4 +1,4 @@
-<h3 align="center">AutoScript Install SSH & OpenVPN & V2rayXray & SSR & Trojan & WireGuard VPS By <p align="center">
+<h3 align="center">AUTOSCRIPT INSTALL SSH & OpenVPN & V2RAYXRAY & SHADOWSOCKS GRPC & TROJAN WS x GRPC & VMESS GRPC & VLESS GRPC VPS BY <p align="center">
 <a href="#"><img title="ENVY TEAM" src="https://img.shields.io/badge/ENVY TEAM-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p> <img src="https://img.shields.io/badge/Version-6.6.6-cyan.svg"></h2>
 
