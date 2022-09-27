@@ -11,5 +11,4 @@ src="https://img.shields.io/badge/Service-V2rayXray-success.svg">  <img src= "ht
 
 <a href="#"><img title="ENVY TEAM" src="https://img.shields.io/badge/STEP 1 :-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 ```
-# ENVY シンプルな VPN スクリプト HAPPY-SURFING
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/envy26/envysc/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
