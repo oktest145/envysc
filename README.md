@@ -1,5 +1,5 @@
 <h3 align="center">AutoScript Install SSH & OpenVPN & V2rayXray & SSR & Trojan & WireGuard VPS By <p align="center">
-<a href="#"><img title="ENVY TEAM" src="https://img.shields.io/badge/GEO GABUT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ENVY TEAM" src="https://img.shields.io/badge/ENVY TEAM-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p> <img src="https://img.shields.io/badge/Version-2.0.4-cyan.svg"></h2>
 
 <h3 align="center"> Supported Linux Distribution</h2>
