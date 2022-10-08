@@ -43,7 +43,7 @@ case $opt in
 2) clear ; trialtrojan ;;
 3) clear ; renew-tr ;;
 4) clear ; del-tr ;;
-5) clear ; cek-tr ;;
+5) clear ; cek-vless ;;
 0) clear ; menu ;;
 x) exit ;;
 *) echo "SALAH TEKAN" ; sleep 1 ; m-trojan ;;
