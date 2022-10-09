@@ -26,11 +26,12 @@ echo -n > /tmp/other.txt
 
 data=( `cat /etc/xray/config.json | grep '^#' | cut -d ' ' -f 2 | sort | uniq`);
 
-echo "--------------------------------";
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 
-echo "-----=[ XRAY ALL USER LOGIN ]=------";
+echo -e "\\E[0;41;36m         XRAY User Login          \E[0m"
 
-echo "--------------------------------";
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+
 
 for akun in "${data[@]}"
 
